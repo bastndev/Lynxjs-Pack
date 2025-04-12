@@ -1,16 +1,28 @@
-# lynxjs-pack README
 
-## Working with Markdown
+# Installation
+1. Open (Ctrl+P)
+2. paste `ext install bastndev.lynx-theme`
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Contributors
 
-## For more information
+Here is the project link if you want to collaborate: [[>_ ] code](https://github.com/bastndev/Lynx-keymap).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+| [![bastndev](https://github.com/bastndev.png?size=100)](https://github.com/bastndev)      |
+|:----------------------------------------------------------------------------------------: |
+| **[Gohit Bastian](https://github.com/bastndev)**                                          |
 
-**Enjoy!**
+
+## About Me
+
+* [X](https://twitter.com/bastndev) - Best for asking questions and discussing issues.
+* [Discord](https://discord.com/invite/bgzvzP6aZH) - Best for hanging out with the community.
+* [Youtube](https://www.youtube.com/@bastndev) - For more content about Lynx and programming,
+
+## Release Notes
+
+### 0.0.1
+
+Initial release of the keymapping extension.
+
+**Enjoy!!**
