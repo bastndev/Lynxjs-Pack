@@ -1,0 +1,54 @@
+{
+  "name": "lynxjs-pack",
+  "displayName": "LynxJS Pack",
+  "description": "Complete set of extensions and recommended theme for apps development with LynxJS",
+  "version": "0.0.1",
+  "publisher": "bastndev",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "lynxjs",
+    "extension-pack",
+    "development",
+    "theme",
+    "productivity",
+    "tools",
+    "vscode"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0a0a0a",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/bastndev/Lynx-Keymap#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bastndev/Lynx-Keymap"
+  },
+  "bugs": {
+    "url": "https://github.com/bastndev/Lynx-Keymap/issues"
+  },
+  "author": {
+    "name": "Gohit Bastian",
+    "email": "gobasdev@gmail.com",
+    "url": "https://www.bastndev.com"
+  },
+  "extensionPack": [
+    "bastndev.lynx-theme",
+    "bastndev.lynx-keymap",
+    "wraith13.bracket-lens",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "kisstkondoros.vscode-gutter-preview",
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "wayou.vscode-todo-highlight",
+    "eamodio.gitlens",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
