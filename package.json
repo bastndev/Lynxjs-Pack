@@ -2,7 +2,7 @@
   "name": "lynxjs-pack",
   "displayName": "LynxJS Pack",
   "description": "Complete set of extensions and recommended theme for apps development with LynxJS",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "bastndev",
   "license": "MIT",
   "engines": {
@@ -41,6 +41,7 @@
   "extensionPack": [
     "bastndev.lynx-theme",
     "bastndev.lynx-keymap",
+    "bastndev.lynx-js-snippets",
     "wraith13.bracket-lens",
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
