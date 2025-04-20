@@ -1,8 +1,8 @@
 {
   "name": "lynxjs-pack",
   "displayName": "LynxJS Pack",
-  "description": "Available now: VSCode, Cursor AI, Windsurf & Trae AI. + (Firebase Studio).  pack lynx, optimize your development.",
-  "version": "0.1.0",
+  "description": "All-in-one development toolkit with essential extensions for VSCode, Cursor AI, Windsurf & Trae AI integration, plus Firebase Studio tools. Optimize your workflow with Lynx.",
+  "version": "0.1.1",
   "publisher": "bastndev",
   "license": "MIT",
   "engines": {
@@ -20,11 +20,15 @@
   ],
   "keywords": [
     "lynxjs",
-    "extension pack",
-    "vscode",
+    "javascript",
     "typescript",
-    "developer tools",
+    "extension-pack",
+    "developer-tools",
     "productivity",
+    "cursor-ai",
+    "windsurf",
+    "trae-ai",
+    "firebase-studio",
     "theme",
     "icons",
     "keymap",
@@ -35,20 +39,20 @@
     "formatter",
     "linter",
     "debugging",
-    "code quality"
+    "code-quality"
   ],
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#0a0a0a",
     "theme": "dark"
   },
-  "homepage": "https://github.com/bastndev/Lynx-Keymap#readme",
+  "homepage": "https://github.com/bastndev/LynxJs-Packge#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bastndev/Lynx-Keymap"
+    "url": "https://github.com/bastndev/LynxJs-Packge"
   },
   "bugs": {
-    "url": "https://github.com/bastndev/Lynx-Keymap/issues"
+    "url": "https://github.com/bastndev/LynxJs-Packge/issues"
   },
   "author": {
     "name": "Gohit Bastian",
@@ -68,5 +72,47 @@
     "pflannery.vscode-versionlens",
     "wraith13.bracket-lens",
     "eamodio.gitlens"
-  ]
+  ],
+  "extensionDependencies": [
+    "bastndev.lynx-theme",
+    "bastndev.lynx-keymap",
+    "bastndev.lynx-js-snippets"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/v/bastndev.lynxjs-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack",
+      "description": "Extension Version"
+    },
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/d/bastndev.lynxjs-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack",
+      "description": "Downloads"
+    }
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "contributes": {
+    "configuration": {
+      "title": "LynxJS Pack",
+      "properties": {
+        "lynxjs-pack.enableFirebaseIntegration": {
+          "type": "boolean",
+          "default": true,
+          "description": "Enable Firebase Studio integration"
+        },
+        "lynxjs-pack.enableAIAssistants": {
+          "type": "boolean",
+          "default": true,
+          "description": "Enable Cursor AI, Windsurf & Trae AI integrations"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run package",
+    "package": "webpack --mode production --devtool hidden-source-map",
+    "lint": "eslint src --ext ts"
+  }
 }
