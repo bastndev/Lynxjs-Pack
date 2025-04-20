@@ -68,13 +68,5 @@
     "pflannery.vscode-versionlens",
     "wraith13.bracket-lens",
     "eamodio.gitlens"
-  ],
-  "extensionDependencies": [
-    "bastndev.lynx-theme",
-    "bastndev.lynx-keymap",
-    "bastndev.lynx-js-snippets"
-  ],
-  "activationEvents": [
-    "onStartupFinished"
   ]
 }
