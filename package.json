@@ -1,24 +1,41 @@
 {
   "name": "lynxjs-pack",
   "displayName": "LynxJS Pack",
-  "description": "Complete set of extensions and recommended theme for apps development with LynxJS",
-  "version": "0.0.2",
+  "description": "Available now: VSCode, Cursor AI, Windsurf & Trae AI. + (Firebase Studio).  pack lynx, optimize your development.",
+  "version": "0.1.0",
   "publisher": "bastndev",
   "license": "MIT",
   "engines": {
     "vscode": "^1.43.0"
   },
   "categories": [
-    "Extension Packs"
+    "Extension Packs",
+    "Themes",
+    "Snippets",
+    "Keymaps",
+    "Linters",
+    "Formatters",
+    "Debuggers",
+    "Other"
   ],
   "keywords": [
     "lynxjs",
-    "extension-pack",
-    "development",
-    "theme",
+    "extension pack",
+    "vscode",
+    "typescript",
+    "developer tools",
     "productivity",
-    "tools",
-    "vscode"
+    "theme",
+    "icons",
+    "keymap",
+    "snippets",
+    "git",
+    "gitlens",
+    "prettier",
+    "formatter",
+    "linter",
+    "debugging",
+    "code quality"
   ],
   "icon": "icon.png",
   "galleryBanner": {
@@ -40,16 +57,16 @@
   },
   "extensionPack": [
     "bastndev.lynx-theme",
+    "PKief.material-icon-theme",
     "bastndev.lynx-keymap",
     "bastndev.lynx-js-snippets",
-    "wraith13.bracket-lens",
+    "kisstkondoros.vscode-gutter-preview",
+    "esbenp.prettier-vscode",
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
-    "kisstkondoros.vscode-gutter-preview",
-    "PKief.material-icon-theme",
-    "esbenp.prettier-vscode",
     "wayou.vscode-todo-highlight",
-    "eamodio.gitlens",
-    "bradlc.vscode-tailwindcss"
+    "pflannery.vscode-versionlens",
+    "wraith13.bracket-lens",
+    "eamodio.gitlens"
   ]
 }
