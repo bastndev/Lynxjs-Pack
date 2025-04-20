@@ -1,8 +1,8 @@
 {
   "name": "lynxjs-pack",
   "displayName": "LynxJS Pack",
-  "description": "All-in-one development toolkit with essential extensions for VSCode, Cursor AI, Windsurf & Trae AI integration, plus Firebase Studio tools. Optimize your workflow with Lynx.",
-  "version": "0.1.1",
+  "description": "Pack Lynx: All-in-one toolkit for VSCode, including Cursor AI, Windsurf, Trae AI, and Firebase Studio. Optimize your development experience.",
+  "version": "0.1.0",
   "publisher": "bastndev",
   "license": "MIT",
   "engines": {
@@ -20,15 +20,11 @@
   ],
   "keywords": [
     "lynxjs",
-    "javascript",
+    "extension pack",
+    "vscode",
     "typescript",
-    "extension-pack",
-    "developer-tools",
+    "developer tools",
     "productivity",
-    "cursor-ai",
-    "windsurf",
-    "trae-ai",
-    "firebase-studio",
     "theme",
     "icons",
     "keymap",
@@ -39,7 +35,7 @@
     "formatter",
     "linter",
     "debugging",
-    "code-quality"
+    "code quality"
   ],
   "icon": "icon.png",
   "galleryBanner": {
@@ -78,41 +74,7 @@
     "bastndev.lynx-keymap",
     "bastndev.lynx-js-snippets"
   ],
-  "badges": [
-    {
-      "url": "https://img.shields.io/visual-studio-marketplace/v/bastndev.lynxjs-pack",
-      "href": "https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack",
-      "description": "Extension Version"
-    },
-    {
-      "url": "https://img.shields.io/visual-studio-marketplace/d/bastndev.lynxjs-pack",
-      "href": "https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack",
-      "description": "Downloads"
-    }
-  ],
   "activationEvents": [
     "onStartupFinished"
-  ],
-  "contributes": {
-    "configuration": {
-      "title": "LynxJS Pack",
-      "properties": {
-        "lynxjs-pack.enableFirebaseIntegration": {
-          "type": "boolean",
-          "default": true,
-          "description": "Enable Firebase Studio integration"
-        },
-        "lynxjs-pack.enableAIAssistants": {
-          "type": "boolean",
-          "default": true,
-          "description": "Enable Cursor AI, Windsurf & Trae AI integrations"
-        }
-      }
-    }
-  },
-  "scripts": {
-    "vscode:prepublish": "npm run package",
-    "package": "webpack --mode production --devtool hidden-source-map",
-    "lint": "eslint src --ext ts"
-  }
+  ]
 }
