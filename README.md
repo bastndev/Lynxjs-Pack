@@ -40,7 +40,7 @@ LynxJS Pack allows you to quickly set up all the essential tools for working wit
 
 ## Contributing
 
-Suggestions and contributions are welcome! Please refer to the project repository for guidelines: [[>\_] code](https://github.com/bastndev/lynxjs-pack) _(Please update this link if it differs)_.
+Suggestions and contributions are welcome! Please refer to the project repository for guidelines: [[>\_] code](https://github.com/bastndev/lynxjs-pack).
 
 | [![bastndev](https://github.com/bastndev.png?size=100)](https://github.com/bastndev) |
 | :----------------------------------------------------------------------------------: |
