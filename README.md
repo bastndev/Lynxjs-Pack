@@ -20,21 +20,23 @@ ext install bastndev.lynxjs-pack
 
 ## Purpose
 
-LynxJS Pack lets you quickly set up all the essential tools for working with LynxJS. With one click, you get everything you need to start building apps fast—no manual setup required.
+LynxJS Pack allows you to quickly set up all the essential tools for working with LynxJS. With a single click, you get everything you need to start building applications fast—no manual configuration required.
 
-**Includes**
+## Included Tools
 
-- Lynx KeyMap: `Specialized shortcuts for rapid mobile app development`
-- Lynx JS Snippets: `Time-saving code snippets for LynxJS, React Native, and TypeScript`
-- Prettier: `Consistent code formatting across your mobile projects`
-- Error Lens: `Real-time error detection for faster debugging`
-- GitLens: `Advanced Git tools for team collaboration`
-- Version Lens: `Effortless dependency management for React Native and LynxJS packages`
-- Tailwind CSS IntelliSense: `Autocomplete, linting, and class sorting for Tailwind CSS`
-- Gutter Preview: `Inline previews of UI assets and design elements`
-- Code Spell Checker: `Ensure professional quality in user-facing content`
-- TODO Highlight: `Track and manage development tasks within your project`
-- Bracket Lens: `Enhanced code navigation in complex component structures`
+| Tool                          | Benefit                                                            |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Lynx JS Snippets**          | Time-saving code snippets for LynxJS, React Native, and TypeScript |
+| **Prettier**                  | Consistent code formatting across all your mobile projects         |
+| **Error Lens**                | Real-time error detection for faster debugging                     |
+| **GitLens**                   | Advanced Git tools for team collaboration                          |
+| **Version Lens**              | Easy dependency management for React Native and LynxJS packages    |
+| **Tailwind CSS IntelliSense** | Autocompletion, linting, and class sorting for Tailwind CSS        |
+| **Gutter Preview**            | Integrated previews of UI assets and design elements               |
+| **Code Spell Checker**        | Ensures professional quality in user-facing content                |
+| **TODO Highlight**            | Track and manage development tasks within your project             |
+| **Bracket Lens**              | Enhanced navigation in complex component structures                |
+| **Lynx KeyMap**               | Specialized shortcuts for rapid mobile app development             |
 
 ## Contributing
 
