@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/version-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=252526&colorB=00d161&label=VERSION" alt="Version"></a>&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/rating-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=252526&colorB=00d161&label=Rating" alt="Rating"></a>&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/installs-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=252526&colorB=00d161&label=Installs" alt="Installs"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/version-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=009945&colorB=EEEEEE&color=000000&label=VERSION" alt="Version"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/rating-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=009945&colorB=EEEEEE&color=000000&label=Rating" alt="Rating"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/installs-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=009945&colorB=EEEEEE&color=000000&label=Installs" alt="Installs"></a>&nbsp;
 </p>
 
 ## Installation
