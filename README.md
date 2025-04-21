@@ -22,7 +22,7 @@ ext install bastndev.lynxjs-pack
 
 LynxJS Pack allows you to quickly set up all the essential tools for working with LynxJS. With a single click, you get everything you need to start building applications fast—no manual configuration required.
 
-## Included Tools
+### Included Tools
 
 | Tool                          | Benefit                                                            |
 | ----------------------------- | ------------------------------------------------------------------ |
@@ -40,7 +40,7 @@ LynxJS Pack allows you to quickly set up all the essential tools for working wit
 
 ## Contributing
 
-Suggestions and contributions are welcome! Please refer to the project repository for guidelines: [[>\_] code](https://github.com/bastndev/lynxjs-pack).
+Suggestions and contributions are welcome! Please refer to the project repository for guidelines: [[>\_]](https://github.com/bastndev/lynxjs-pack).
 
 | [![bastndev](https://github.com/bastndev.png?size=100)](https://github.com/bastndev) |
 | :----------------------------------------------------------------------------------: |
