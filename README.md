@@ -32,7 +32,7 @@ LynxJS Pack allows you to quickly set up all the essential tools for working wit
 | **GitLens**                   | Advanced Git tools for team collaboration                          |
 | **Version Lens**              | Easy dependency management for React Native and LynxJS packages    |
 | **Tailwind CSS IntelliSense** | Autocompletion, linting, and class sorting for Tailwind CSS        |
-| **Gutter Preview**            | Integrated previews of UI assets and design elements               |
+| **IMG Preview**               | Integrated previews of UI assets and design elements               |
 | **Code Spell Checker**        | Ensures professional quality in user-facing content                |
 | **TODO Highlight**            | Track and manage development tasks within your project             |
 | **Bracket Lens**              | Enhanced navigation in complex component structures                |
