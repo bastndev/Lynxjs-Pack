@@ -1,37 +1,54 @@
 {
   "name": "lynxjs-pack",
   "displayName": "LynxJS Pack",
-  "description": "Complete set of extensions and recommended theme for apps development with LynxJS",
-  "version": "0.0.2",
+  "description": "Pack Lynx: All-in-one toolkit for VSCode, including Cursor AI, Windsurf, Trae AI, and Firebase Studio. Optimize your development experience.",
+  "version": "0.1.1",
   "publisher": "bastndev",
   "license": "MIT",
   "engines": {
     "vscode": "^1.43.0"
   },
   "categories": [
-    "Extension Packs"
+    "Extension Packs",
+    "Themes",
+    "Snippets",
+    "Keymaps",
+    "Linters",
+    "Formatters",
+    "Debuggers",
+    "Other"
   ],
   "keywords": [
     "lynxjs",
-    "extension-pack",
-    "development",
-    "theme",
+    "extension pack",
+    "vscode",
+    "typescript",
+    "developer tools",
     "productivity",
-    "tools",
-    "vscode"
+    "theme",
+    "icons",
+    "keymap",
+    "snippets",
+    "git",
+    "gitlens",
+    "prettier",
+    "formatter",
+    "linter",
+    "debugging",
+    "code quality"
   ],
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#0a0a0a",
     "theme": "dark"
   },
-  "homepage": "https://github.com/bastndev/Lynx-Keymap#readme",
+  "homepage": "https://github.com/bastndev/LynxJs-Packge#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bastndev/Lynx-Keymap"
+    "url": "https://github.com/bastndev/LynxJs-Packge"
   },
   "bugs": {
-    "url": "https://github.com/bastndev/Lynx-Keymap/issues"
+    "url": "https://github.com/bastndev/LynxJs-Packge/issues"
   },
   "author": {
     "name": "Gohit Bastian",
@@ -39,17 +56,16 @@
     "url": "https://www.bastndev.com"
   },
   "extensionPack": [
-    "bastndev.lynx-theme",
     "bastndev.lynx-keymap",
     "bastndev.lynx-js-snippets",
-    "wraith13.bracket-lens",
-    "streetsidesoftware.code-spell-checker",
-    "usernamehw.errorlens",
-    "kisstkondoros.vscode-gutter-preview",
-    "PKief.material-icon-theme",
     "esbenp.prettier-vscode",
-    "wayou.vscode-todo-highlight",
     "eamodio.gitlens",
-    "bradlc.vscode-tailwindcss"
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "wayou.vscode-todo-highlight",
+    "bradlc.vscode-tailwindcss",
+    "kisstkondoros.vscode-gutter-preview",
+    "wraith13.bracket-lens",
+    "pflannery.vscode-versionlens"
   ]
 }
