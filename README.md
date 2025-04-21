@@ -30,17 +30,16 @@ LynxJS Pack bundles essential tools optimized for mobile app development with Ly
 
 ### Core Extensions for LynxJS Development
 
-- **Lynx Theme** - A dark theme optimized for React Native and TypeScript code readability
 - **Lynx KeyMap** - Specialized shortcuts for rapid mobile app development
 - **Lynx JS Snippets** - Time-saving code snippets for LynxJS, React Native and TypeScript
 
 ### Mobile Development Tools
 
-- **Material Icon Theme** - Clear visual distinction for project files and components
 - **Prettier** - Consistent code formatting across your mobile projects
 - **Error Lens** - Real-time error detection for faster debugging of mobile apps
 - **GitLens** - Enhanced collaboration tools for team-based app development
 - **Version Lens** - Dependency management for React Native and LynxJS packages
+- **Tailwind CSS IntelliSense** - Smart autocomplete, linting and class sorting for Tailwind CSS
 
 ### Cross-Platform Productivity Boosters
 
