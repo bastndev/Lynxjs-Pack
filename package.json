@@ -2,7 +2,7 @@
   "name": "lynxjs-pack",
   "displayName": "LynxJS Pack",
   "description": "Pack Lynx: All-in-one toolkit for VSCode, including Cursor AI, Windsurf, Trae AI, and Firebase Studio. Optimize your development experience.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "bastndev",
   "license": "MIT",
   "engines": {
@@ -57,15 +57,16 @@
   },
   "extensionPack": [
     "bastndev.lynx-js-snippets",
+    "usernamehw.errorlens",
+    "bastndev.bracket-lynx",
     "esbenp.prettier-vscode",
     "eamodio.gitlens",
-    "usernamehw.errorlens",
     "streetsidesoftware.code-spell-checker",
     "wayou.vscode-todo-highlight",
     "bradlc.vscode-tailwindcss",
     "kisstkondoros.vscode-gutter-preview",
-    "wraith13.bracket-lens",
     "pflannery.vscode-versionlens",
-    "bastndev.lynx-keymap"
+    "PKief.material-icon-theme",
+    "bastndev.lynx-theme"
   ]
 }
