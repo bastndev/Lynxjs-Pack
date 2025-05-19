@@ -57,14 +57,14 @@
   },
   "extensionPack": [
     "bastndev.lynx-js-snippets",
+    "usernamehw.errorlens",
+    "bastndev.bracket-lynx",
     "esbenp.prettier-vscode",
     "eamodio.gitlens",
-    "usernamehw.errorlens",
     "streetsidesoftware.code-spell-checker",
     "wayou.vscode-todo-highlight",
     "bradlc.vscode-tailwindcss",
     "kisstkondoros.vscode-gutter-preview",
-    "wraith13.bracket-lens",
     "pflannery.vscode-versionlens",
     "PKief.material-icon-theme",
     "bastndev.lynx-theme"
