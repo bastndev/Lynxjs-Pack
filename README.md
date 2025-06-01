@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/version-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=009945&colorB=EEEEEE&color=000000&label=VERSION" alt="Version"></a>&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/rating-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=009945&colorB=EEEEEE&color=000000&label=Rating" alt="Rating"></a>&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/installs-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=009945&colorB=EEEEEE&color=000000&label=Installs" alt="Installs"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/version-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=VERSION" alt="Version"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/rating-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Rating" alt="Rating"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/installs-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Installs" alt="Installs"></a>&nbsp;
 </p>
 
 </br>
 
-###### RECOMMEND
+### RECOMMEND
 
 For an even better experience, consider installing [Lynx Keymap](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap) or [Lynx Keymap 75%](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap75) extensions.
 
@@ -30,20 +30,20 @@ LynxJS Pack allows you to quickly set up all the essential tools for working wit
 
 ### Included Tools
 
-| Tool                          | Benefit                                                            |
-| ----------------------------- | ------------------------------------------------------------------ |
-| **Lynx JS Snippets**          | Time-saving code snippets for LynxJS, React Native, and TypeScript |
-| **Prettier**                  | Consistent code formatting across all your mobile projects         |
-| **Error Lens**                | Real-time error detection for faster debugging                     |
-| **GitLens**                   | Advanced Git tools for team collaboration                          |
-| **Version Lens**              | Easy dependency management for React Native and LynxJS packages    |
-| **Tailwind CSS IntelliSense** | Autocompletion, linting, and class sorting for Tailwind CSS        |
-| **IMG Preview**               | Integrated previews of UI assets and design elements               |
-| **Code Spell Checker**        | Ensures professional quality in user-facing content                |
-| **TODO Highlight**            | Track and manage development tasks within your project             |
-| **Bracket Lens**              | Enhanced navigation in complex component structures                |
-| **Material Icon Theme**       | Beautiful and customizable icons for your project files            |
-| **Lynx Theme**                | A sleek, customizable VS Code theme with LynxJS support            |
+| Tool                             | Benefit                                                            |
+| -------------------------------- | ------------------------------------------------------------------ |
+| **Lynx JS Snippets** ✨          | Time-saving code snippets for LynxJS, React Native, and TypeScript |
+| **Error Lens** 🚨                | Real-time error highlighting for faster debugging                  |
+| **Bracket Lynx** 🦊              | Enhanced bracket navigation for complex component structures       |
+| **Prettier** 🎨                  | Consistent code formatting across all your projects                |
+| **GitLens** 🔍                   | Advanced Git tools for team collaboration                          |
+| **Code Spell Checker** 📝        | Ensures professional quality in user-facing content                |
+| **TODO Highlight** 📌            | Track and manage development tasks within your project             |
+| **Tailwind CSS IntelliSense** 💨 | Autocompletion and linting for Tailwind CSS                        |
+| **IMG Preview** 🖼️               | Integrated previews of UI assets and design elements               |
+| **Version Lens** 📦              | Easy dependency management for React Native and LynxJS packages    |
+| **Material Icon Theme** 🗂️       | Beautiful and customizable icons for your project files            |
+| **Lynx Theme** 🦁                | A sleek, customizable VS Code theme with LynxJS support            |
 
 ## Contributing
 
@@ -67,5 +67,5 @@ Suggestions and contributions are welcome! Please refer to the project repositor
 | ![](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default) | [Lynx‑js Snippets .tsx](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets) | A powerful collection of Lynx.js snippets (TypeScript & React) to boost your development workflow.                                              |
 | ![](https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/icon2.png)                                                 | [Lynx Keymap](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap)                | An all‑in‑one toolkit for LynxJS mobile/web development—bundles keymap, snippets & AI tools like Cursor AI, Windsurf, Trae AI, Firebase Studio. |
 
-**Enjoy coding and building amazing projects! 🚀 In LynxJS.**
+**Enjoy coding and building amazing projects! [suggestion issue](https://github.com/bastndev/LynxJs-Packge/issues) 🚀 In LynxJS.**
 [MORE](https://marketplace.visualstudio.com/publishers/bastndev)
