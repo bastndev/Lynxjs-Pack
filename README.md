@@ -27,7 +27,7 @@
 For the best experience, add the keymap extension that matches your keyboard layout:
 
 - [Lynx Keymap](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap)
-- [Lynx Keymap 75%](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap75)
+- [Lynx Keymap (75% keyboard)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap75)
 
 ## Purpose
 
