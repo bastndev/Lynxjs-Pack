@@ -49,7 +49,7 @@ ext install bastndev.lynxjs-pack
 
 ## Contributing
 
-Suggestions and contributions are welcome! Please refer to the project repository for guidelines: [[>\_]](https://github.com/bastndev/lynxjs-pack).
+Suggestions and contributions are welcome! Please refer to the project repository for guidelines: [[>\_ ] code](https://github.com/bastndev/LynxJs-Packge).
 
 | [![bastndev](https://github.com/bastndev.png?size=100)](https://bastndev.com) |
 | :---------------------------------------------------------------------------: |
