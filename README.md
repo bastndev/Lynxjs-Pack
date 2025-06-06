@@ -7,20 +7,20 @@
 
 </br>
 
-| 🛠️ Tool                       | ✨ Benefit                                                         |
-| ----------------------------- | ------------------------------------------------------------------ |
-| **Lynx JS Snippets**          | Time-saving code snippets for LynxJS, React Native, and TypeScript |
-| **Error Lens**                | Real-time error highlighting for faster debugging                  |
-| **Bracket Lynx**              | Enhanced bracket navigation for complex component structures       |
-| **Prettier**                  | Consistent code formatting across all your projects                |
-| **GitLens**                   | Advanced Git tools for team collaboration                          |
-| **Code Spell Checker**        | Ensures professional quality in user-facing content                |
-| **TODO Highlight**            | Track and manage development tasks within your project             |
-| **Tailwind CSS IntelliSense** | Autocompletion and linting for Tailwind CSS                        |
-| **IMG Preview**               | Integrated previews of UI assets and design elements               |
-| **Version Lens**              | Easy dependency management for React Native and LynxJS packages    |
-| **Material Icon Theme**       | Beautiful and customizable icons for your project files            |
-| **Lynx Theme**                | A sleek, customizable VS Code theme with LynxJS support            |
+| 🛠️ Tool                          | ✨ Benefit                                                         |
+| -------------------------------- | ------------------------------------------------------------------ |
+| 🧩 **Lynx JS Snippets**          | Time-saving code snippets for LynxJS, React Native, and TypeScript |
+| 🪲 **Error Lens**                | Real-time error highlighting for faster debugging                  |
+| 🦾 **Bracket Lynx**              | Enhanced bracket navigation for complex component structures       |
+| 🎨 **Prettier**                  | Consistent code formatting across all your projects                |
+| 🔍 **GitLens**                   | Advanced Git tools for team collaboration                          |
+| 📝 **Code Spell Checker**        | Ensures professional quality in user-facing content                |
+| ✅ **TODO Highlight**            | Track and manage development tasks within your project             |
+| 🌈 **Tailwind CSS IntelliSense** | Autocompletion and linting for Tailwind CSS                        |
+| 🖼️ **IMG Preview**               | Integrated previews of UI assets and design elements               |
+| 📦 **Version Lens**              | Easy dependency management for React Native and LynxJS packages    |
+| 🗂️ **Material Icon Theme**       | Beautiful and customizable icons for your project files            |
+| 😼 **Lynx Theme**                | A sleek, customizable VS Code theme with LynxJS support            |
 
 ### Recommended Extensions [+]
 
