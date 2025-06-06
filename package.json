@@ -2,7 +2,7 @@
   "name": "lynxjs-pack",
   "displayName": "LynxJS Pack",
   "description": "Pack Lynx: All-in-one toolkit for VSCode, including Cursor AI, Windsurf, Trae AI, and Firebase Studio. Optimize your development experience.",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "publisher": "bastndev",
   "license": "MIT",
   "engines": {
