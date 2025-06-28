@@ -23,12 +23,12 @@
 | 😼 **Lynx Theme**                | A sleek, customizable VS Code theme with LynxJS support            |
 | ⌨️ **Lynx Keymap**               | Optimized keybindings for LynxJS development workflow              |
 
-### Recommended Extensions [+]
+### [+] Optional: Fonts & (75%) keyboard
 
-For the best experience, add the keymap extension that matches your keyboard layout:
+For an optimal development experience, we highly recommend installing these complementary extensions. If you use a 75% keyboard, the **Lynx Keymap (75%)** is specifically designed for your layout. To fully complement the **Lynx Theme**, consider downloading the recommended fonts.
 
-- [Lynx Keymap](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap)
-- [Lynx Keymap (75% keyboard)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap75)
+- **[Lynx Keymap (75%)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap-75)**
+- **[Recommended Fonts](https://github.com/bastndev/Lynx-Theme/releases/tag/v1.2.5)**
 
 ## Purpose
 
