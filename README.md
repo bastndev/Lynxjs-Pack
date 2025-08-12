@@ -60,5 +60,4 @@ If you want to contribute, check the guidelines: [[>_ᅠ]](https://github.com/ba
 - 🔴 [Youtube](https://www.youtube.com/@bastndev?sub_confirmation=1) - Code, Software and development insights.
 - 💼 [Linkedin](https://www.linkedin.com/in/bastndev) - Professional networking and career updates.
 
-**Enjoy coding and building amazing projects! [suggestion issue](https://github.com/bastndev/LynxJs-Packge/issues) 🚀 In LynxJS.**
-[MORE](https://marketplace.visualstudio.com/publishers/bastndev)
+**Enjoy 🎉 Your LynxJS pack is now active. If you find any bugs or have feedback, you can [open an issue](https://github.com/bastndev/LynxJs-Packge/issues).**
