@@ -7,7 +7,7 @@
 
 </br>
 
-<!-- Vscode extensions -->
+<!-- Vscode extensions MARK: 1-one-->
 <table align="center" width="100%" style="table-layout: fixed;">
   <tr align="center">
     <td>
@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-<!-- Second  box  -->
+<!-- Second  box  MARK: 2-Two-->
 <table align="center" width="100%" style="table-layout: fixed;">
   <tr align="center">
     <td>
@@ -85,6 +85,46 @@
       </a>
       <br/>
       <a href="https://github.com/wayou/vscode-todo-highlight"><b>TODO Highlight</b></a>
+    </td>
+  </tr>
+</table>
+
+<!-- Second  box MARK: 3-Three -->
+<table align="center" width="100%" style="table-layout: fixed;">
+  <tr align="center">
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview" target="_blank" rel="noreferrer">
+      <img src="https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.32.2/1732997211540/Microsoft.VisualStudio.Services.Icons.Default" alt="Gutter Preview" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/kisstkondoros/gutter-preview"><b>Gutter Preview</b></a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens" target="_blank" rel="noreferrer">
+        <img src="https://pflannery.gallerycdn.vsassets.io/extensions/pflannery/vscode-versionlens/1.22.2/1747670637569/Microsoft.VisualStudio.Services.Icons.Default" alt="Version Lens" width="70"/>
+      </a>
+      <br/>
+      <a href="https://gitlab.com/versionlens/vscode-versionlens"><b>Version Lens</b></a>
+    </td>
+     <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens" target="_blank" rel="noreferrer">
+        <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2025.8.1205/1754989816560/Microsoft.VisualStudio.Services.Icons.Default" alt="GitLens" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/gitkraken/vscode-gitlens"><b>GitLens</b></a>
+    </td>
+  </tr>
+</table>
+
+<!-- Second  box MARK: 4-Four-->
+<table align="center" width="100%" style="table-layout: fixed;">
+  <tr align="center">
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss" target="_blank" rel="noreferrer">
+        <img src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.14.26/1754073884108/Microsoft.VisualStudio.Services.Icons.Default" alt="Tailwind CSS IntelliSense" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/tailwindlabs/tailwindcss-intellisense"><b>Tailwind CSS IntelliSense</b></a>
     </td>
   </tr>
 </table>
