@@ -2,7 +2,7 @@
   "name": "lynxjs-pack",
   "displayName": "Lynxjs Extension Pack",
   "description": "Available now: VSCode • Cursor • Windsurf • Trae.ai • Kiro & (Firebase Studio)...",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "publisher": "bastndev",
   "license": "MIT",
   "engines": {
@@ -48,18 +48,18 @@
     "url": "https://github.com/sponsors/bastndev"
   },
   "extensionPack": [
-    "bastndev.lynx-theme",
-    "bastndev.bracket-lynx",
-    "bastndev.lynx-keymap",
-    "bastndev.lynx-js-snippets",
-    "bastndev.f1",
     "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
     "streetsidesoftware.code-spell-checker",
     "wayou.vscode-todo-highlight",
-    "bradlc.vscode-tailwindcss",
-    "usernamehw.errorlens",
     "kisstkondoros.vscode-gutter-preview",
     "pflannery.vscode-versionlens",
-    "eamodio.gitlens"
+    "bradlc.vscode-tailwindcss",
+    "eamodio.gitlens",
+    "bastndev.f1",
+    "bastndev.lynx-js-snippets",
+    "bastndev.lynx-keymap",
+    "bastndev.bracket-lynx",
+    "bastndev.lynx-theme"
   ]
 }
