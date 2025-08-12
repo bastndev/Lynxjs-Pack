@@ -1,28 +1,16 @@
 {
   "name": "lynxjs-pack",
   "displayName": "LynxJS Pack",
-  "description": "Pack Lynx: All-in-one toolkit for VSCode, including Cursor AI, Windsurf, Trae AI, and Firebase Studio. Optimize your development experience.",
-  "version": "0.3.7",
+  "description": "Available now: VSCode • Cursor • Windsurf • Trae.ai • Kiro & (Firebase Studio)...",
+  "version": "0.4.0",
   "publisher": "bastndev",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.43.0"
+    "vscode": "^1.74.0"
   },
-  "categories": [
-    "Extension Packs",
-    "Themes",
-    "Snippets",
-    "Keymaps",
-    "Linters",
-    "Formatters",
-    "Debuggers",
-    "Other"
-  ],
+  "categories": ["Extension Packs"],
   "keywords": [
-    "lynxjs",
     "extension pack",
-    "vscode",
-    "typescript",
     "developer tools",
     "productivity",
     "theme",
@@ -55,7 +43,11 @@
     "email": "gobasdev@gmail.com",
     "url": "https://www.bastndev.com"
   },
+    "sponsor": {
+    "url": "https://github.com/sponsors/bastndev"
+  },
   "extensionPack": [
+    "bastndev.lynx-theme",
     "bastndev.lynx-js-snippets",
     "usernamehw.errorlens",
     "bastndev.bracket-lynx",
@@ -66,8 +58,7 @@
     "bradlc.vscode-tailwindcss",
     "kisstkondoros.vscode-gutter-preview",
     "pflannery.vscode-versionlens",
-    "PKief.material-icon-theme",
-    "bastndev.lynx-theme",
-    "bastndev.lynx-keymap"
+    "bastndev.lynx-keymap",
+    "bastndev.f1"
   ]
 }
