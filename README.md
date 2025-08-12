@@ -7,7 +7,92 @@
 
 </br>
 
-| 🛠️ Tool                          | ✨ Benefit                                                         |
+<!-- Vscode extensions -->
+<table align="center" width="100%" style="table-layout: fixed;">
+  <tr align="center">
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.2/1744898058774/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx Theme" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/bastndev/Lynx-Theme"><b>Theme</b></a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx JS Snippets" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/bastndev/Lynx-js-Snippets"><b>Snippets</b></a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="Bracket Lynx" width="60"/>
+      </a>
+      <br/>
+      <a href="https://github.com/bastndev/Bracket-Lynx"><b>Bracket</b></a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.f1" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/f1/0.2.1/1752544035624/Microsoft.VisualStudio.Services.Icons.Default" alt="F1 Quick Switch" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/bastndev/f1"><b>Quick Switch</b></a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" alt="Lynx Keymap" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/bastndev/Lynx-Keymap"><b>Keymap</b></a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap-75" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-keymap-75/1.3.5/1754931477790/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx Keymap 75%" width="45"/>
+      </a>
+      <br/>
+      <a href="https://github.com/bastndev/Lynx-Keymap-75"><b>Optional 75%</b></a>
+    </td>
+  </tr>
+</table>
+
+<!-- Second  box  -->
+<table align="center" width="100%" style="table-layout: fixed;">
+  <tr align="center">
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens" target="_blank" rel="noreferrer">
+      <img src="https://usernamehw.gallerycdn.vsassets.io/extensions/usernamehw/errorlens/3.26.0/1745913515439/Microsoft.VisualStudio.Services.Icons.Default" alt="Error Lens" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/usernamehw/vscode-error-lens"><b>Error Lens</b></a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank" rel="noreferrer">
+        <img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/11.0.0/1723648421534/Microsoft.VisualStudio.Services.Icons.Default" alt="Prettier" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/prettier/prettier"><b>Prettier</b></a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker" target="_blank" rel="noreferrer">
+      <img src="https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/4.2.3/1753028947698/Microsoft.VisualStudio.Services.Icons.Default" alt="Code Spell Checker" width="60"/>
+      </a>
+      <br/>
+      <a href="https://github.com/streetsidesoftware/vscode-spell-checker"><b>Spell Checker</b></a>
+    </td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight" target="_blank" rel="noreferrer">
+        <img src="https://wayou.gallerycdn.vsassets.io/extensions/wayou/vscode-todo-highlight/1.0.5/1635478170130/Microsoft.VisualStudio.Services.Icons.Default" alt="TODO Highlight" width="70"/>
+      </a>
+      <br/>
+      <a href="https://github.com/wayou/vscode-todo-highlight"><b>TODO Highlight</b></a>
+    </td>
+  </tr>
+</table>
+
+</br>
+
+| 🛠️ **Tool**                      | ✨ **Benefit**                                                     |
+| -------------------------------- | ------------------------------------------------------------------ |
 | -------------------------------- | ------------------------------------------------------------------ |
 | 🧩 **Lynx JS Snippets**          | Time-saving code snippets for LynxJS, React Native, and TypeScript |
 | 🪲 **Error Lens**                | Real-time error highlighting for faster debugging                  |
@@ -25,8 +110,8 @@
 
 ### [+] Optional: Fonts & (75%) keyboard
 
+- **[Fonts](https://github.com/bastndev/Lynx-Theme/releases/tag/v1.2.5)**
 - **[Lynx Keymap (75%)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap-75)**
-- **[Recommended Fonts](https://github.com/bastndev/Lynx-Theme/releases/tag/v1.2.5)**
 
 ## Purpose
 
