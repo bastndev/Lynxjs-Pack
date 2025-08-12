@@ -5,7 +5,6 @@
   <a href="https://github.com/bastndev/Lynxjs-Pack"><img src="https://raw.githubusercontent.com/bastndev/Lynxjs-Pack/refs/heads/main/assets/images/star.png" width="26.6px" alt="Github Star ⭐️"></a>
 </p>
 
-<img src="./assets/images/code.png" width="17"/>
 </br>
 
 | Icon                                                                                                                                                                                                                                                                         | Code                                                                                                                                                                                                   | Description                                                                                                                                                                                        |
