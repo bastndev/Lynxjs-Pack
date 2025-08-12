@@ -8,52 +8,57 @@
 </br>
 
 <!-- Vscode extensions -->
-<table align="center" width="100%" style="table-layout: fixed">
+<table align="center" width="100%" style="table-layout: fixed;">
   <tr align="center">
     <td>
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70"/>
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.2/1744898058774/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx Theme" width="70"/>
       </a>
+      <br/>
+      <a href="https://github.com/bastndev/Lynx-Theme"><b>Theme</b></a>
     </td>
     <td>
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx snippets" width="70" />
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx JS Snippets" width="70"/>
       </a>
+      <br/>
+      <a href="https://github.com/bastndev/Lynx-js-Snippets"><b>Snippets</b></a>
     </td>
     <td>
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="bracket lynx" width="60" />
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="Bracket Lynx" width="60"/>
       </a>
+      <br/>
+      <a href="https://github.com/bastndev/Bracket-Lynx"><b>Bracket</b></a>
     </td>
     <td>
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.f1" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/f1/0.2.1/1752544035624/Microsoft.VisualStudio.Services.Icons.Default" alt="f1" width="70" />
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/f1/0.2.1/1752544035624/Microsoft.VisualStudio.Services.Icons.Default" alt="F1 Quick Switch" width="70"/>
       </a>
+      <br/>
+      <a href="https://github.com/bastndev/f1"><b>Quick Switch</b></a>
     </td>
     <td>
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" width="70" />
+        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" alt="Lynx Keymap" width="70"/>
       </a>
+      <br/>
+      <a href="https://github.com/bastndev/Lynx-Keymap"><b>Keymap</b></a>
     </td>
     <td>
-      <a href="https://github.com/bastndev/Lynx-Keymap-75" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-keymap-75/1.3.5/1754931477790/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx keymap 75" width="45" />
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap-75" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-keymap-75/1.3.5/1754931477790/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx Keymap 75%" width="45"/>
       </a>
+      <br/>
+      <a href="https://github.com/bastndev/Lynx-Keymap-75"><b>Optional 75%</b></a>
     </td>
-  </tr>
-  <tr align="center">
-    <th><a href="https://github.com/bastndev/Lynx-Theme">Theme</a></th>
-    <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
-    <th><a href="https://github.com/bastndev/Bracket-Lynx">Bracket</a></th>
-    <th><a href="https://github.com/bastndev/f1">Quick Switch</a></th>
-    <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
-    <th><a href="https://github.com/bastndev/Lynx-Keymap-75">Optional 75%</a></th>
   </tr>
 </table>
 
 </br>
 
-| 🛠️ Tool                          | ✨ Benefit                                                         |
+| 🛠️ **Tool**                      | ✨ **Benefit**                                                     |
+| -------------------------------- | ------------------------------------------------------------------ |
 | -------------------------------- | ------------------------------------------------------------------ |
 | 🧩 **Lynx JS Snippets**          | Time-saving code snippets for LynxJS, React Native, and TypeScript |
 | 🪲 **Error Lens**                | Real-time error highlighting for faster debugging                  |
