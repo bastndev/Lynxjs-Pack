@@ -28,8 +28,6 @@
 - **[Fonts](https://github.com/bastndev/Lynx-Theme/releases/tag/v1.2.5)**
 - **[Lynx Keymap (75%)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap-75)**
 
-**Did you find this collection useful?** ⭐ Give the repository a star!
-
 > **Note:** Keep your extensions updated regularly to get the latest features and security fixes.
 
 </br>
