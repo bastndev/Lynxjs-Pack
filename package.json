@@ -26,7 +26,7 @@
     "bracket Lynx",
     "gitlens"
   ],
-  "icon": "icon.png",
+  "icon": "./assets/icon.png",
   "galleryBanner": {
     "color": "#0a0a0a",
     "theme": "dark"
