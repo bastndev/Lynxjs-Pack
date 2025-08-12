@@ -2,7 +2,7 @@
   <img src="https://vsmarketplacebadges.dev/version-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=VERSION" alt="Version">&nbsp;
   <img src="https://vsmarketplacebadges.dev/rating-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Rating" alt="Rating">&nbsp;
   <img src="https://vsmarketplacebadges.dev/downloads-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Downloads" alt="Downloads">&nbsp;
-  <a href="https://github.com/bastndev/Lynxjs-Pack"><img src="https://raw.githubusercontent.com/bastndev/Lynx-Pack/main/assets/images/start.png" width="26.6px" alt="Github Star ⭐️"></a>
+  <a href="https://github.com/bastndev/Lynxjs-Pack"><img src="https://raw.githubusercontent.com/bastndev/Lynxjs-Pack/refs/heads/main/assets/images/star.png" width="26.6px" alt="Github Star ⭐️"></a>
 </p>
 
 </br>
