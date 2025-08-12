@@ -18,26 +18,68 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
+> Discover more extensions at [bastndev.com/extensions](https://bastndev.com/extensions)
 
-Discover more extensions at [bastndev.com/extensions](https://bastndev.com/extensions)
+---
 
 ## Changelog
 
-Following VS Code best practices, Lynx Extension Pack uses semantic versioning for all releases.
+Following VS Code best practices, Lynx Extension Pack uses [semantic versioning](https://semver.org/) for all releases.
+
+---
 
 ## [0.4.0] - 2025-08-12
 
+### Added
+- Integrated [F1-Quick Switch](https://marketplace.visualstudio.com/items?itemName=bastndev.f1) for lightning-fast navigation between files and VS Code commands.
+
+### Changed
+- Restructured `README.md` for improved readability and organization.
+- Updated the tools section to reflect the new F1-Quick Switch integration.
+- Enhanced formatting and descriptions for a cleaner user experience.
+
+---
+
 ## [0.3.1] - 2025-06-01
+
+### Added
+- Expanded tools section with detailed extension descriptions.
+- Enhanced documentation structure for easier navigation.
+- Clarified Lynx Keymap description for 75% keyboard layout compatibility.
+
+### Changed
+- Updated extension links to the Visual Studio Marketplace for better accessibility.
+- Standardized table formatting for consistency.
+- Improved contributing guidelines with updated repository information.
+
+### Fixed
+- Corrected repository links in the contributing section.
+- Resolved minor formatting inconsistencies.
+
+---
 
 ## [0.2.2] - 2025-05-18
 
-## [0.1.1] - 2025-04-20
+### Added
+- New workflow optimization tools integrated into the pack.
+- Improved extension table with icons and comprehensive descriptions.
+- Added spell-checker dictionary entries for technical terms.
+- Integrated badges for version, ratings, and installation metrics.
+
+### Changed
+- Removed obsolete fields from `package.json` for cleaner configuration.
+- Replaced Material Icon Theme with Tailwind CSS IntelliSense for better React/JSX support.
+- Refined extension list based on developer feedback.
+
+### Removed
+- Legacy dependencies and redundant activation events.
+
+---
 
 ## [0.0.1] - 2025-04-11
 
 ### Added
-
-- Initial public release of Lynx Extension Pack
-- All-in-one toolkit for web and mobile development
-- Core extensions bundle with keyboard shortcuts, error alerts, and text correction
-- Integrated snippets and workflow optimization tools
+- Initial release of Lynx Extension Pack.
+- Core extension bundle for web and mobile development workflows.
+- Integrated keyboard shortcuts, error detection, and text correction.
+- Code snippets library for common development patterns.
