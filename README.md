@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/version-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=VERSION" alt="Version"></a>&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/rating-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Rating" alt="Rating"></a>&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack"><img src="https://vsmarketplacebadges.dev/installs-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Installs" alt="Installs"></a>&nbsp;
-  <a href="https://github.com/sponsors/bastndev"><img src="https://raw.githubusercontent.com/bastndev/Lynx-Theme/main/assets/images/sponsor.png" width="30px" alt="Sponsor Github"></a>
+  <img src="https://vsmarketplacebadges.dev/version-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=VERSION" alt="Version">&nbsp;
+  <img src="https://vsmarketplacebadges.dev/rating-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Rating" alt="Rating">&nbsp;
+  <img src="https://vsmarketplacebadges.dev/downloads-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Downloads" alt="Downloads">&nbsp;
+  <a href="https://github.com/bastndev/Lynxjs-Pack"><img src="https://raw.githubusercontent.com/bastndev/Lynx-Pack/main/assets/images/start.png" width="26.6px" alt="Github Star ⭐️"></a>
 </p>
 
 </br>
@@ -24,7 +24,6 @@
 | ⌨️ **Lynx Keymap**               | Optimized keybindings for LynxJS development workflow              |
 
 ### [+] Optional: Fonts & (75%) keyboard
-
 
 - **[Lynx Keymap (75%)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap-75)**
 - **[Recommended Fonts](https://github.com/bastndev/Lynx-Theme/releases/tag/v1.2.5)**
@@ -63,11 +62,11 @@ Suggestions and contributions are welcome! Please refer to the project repositor
 
 </br>
 
-| Icon                                                                                                                                                                                                                | Name                                                                  | Description                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Lynx Theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.2/1744898058774/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)                   | [Lynx Theme](https://github.com/bastndev/Lynx-Theme)                  | A sleek, customizable VS Code theme with built‑in support for Cursor‑AI, Windsurf & Trae‑AI integrations.                                       |
+| Icon                                                                                                                                                                                                                                                 | Name                                                                 | Description                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Lynx Theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.2/1744898058774/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)                   | [Lynx Theme](https://github.com/bastndev/Lynx-Theme)                 | A sleek, customizable VS Code theme with built‑in support for Cursor‑AI, Windsurf & Trae‑AI integrations.                                       |
 | [![Lynx-js Snippets](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets) | [Lynxjs Snippets .tsx](https://github.com/bastndev/Lynx-js-Snippets) | A powerful collection of Lynx.js snippets (TypeScript & React) to boost your development workflow.                                              |
-| [![Lynx Keymap](https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap)                                                            | [Lynx Keymap](https://github.com/bastndev/Lynx-Keymap)                | An all‑in‑one toolkit for LynxJS mobile/web development—bundles keymap, snippets & AI tools like Cursor AI, Windsurf, Trae AI, Firebase Studio. |
+| [![Lynx Keymap](https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap)                                                            | [Lynx Keymap](https://github.com/bastndev/Lynx-Keymap)               | An all‑in‑one toolkit for LynxJS mobile/web development—bundles keymap, snippets & AI tools like Cursor AI, Windsurf, Trae AI, Firebase Studio. |
 
 **Enjoy coding and building amazing projects! [suggestion issue](https://github.com/bastndev/LynxJs-Packge/issues) 🚀 In LynxJS.**
 [MORE](https://marketplace.visualstudio.com/publishers/bastndev)
