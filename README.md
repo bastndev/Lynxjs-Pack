@@ -7,10 +7,6 @@
 
 </br>
 
-# 🚀 My VS Code Extension Collection
-
-This is my personal collection of Visual Studio Code extensions that significantly enhance the development experience. They are organized by category for easy installation and use.
-
 ## 🎨 Lynx Suite – Custom Extensions
 
 A complete suite of extensions developed to optimize your workflow:
@@ -71,7 +67,7 @@ A complete suite of extensions developed to optimize your workflow:
       <br/>
       <a href="https://github.com/bastndev/Lynx-Keymap-75"><b>⌨️ Keymap 75%</b></a>
       <br/>
-      <small>Optimized for 75% keyboards</small>
+      <small>OPTIONAL for 75% keyboards</small>
     </td>
   </tr>
 </table>
