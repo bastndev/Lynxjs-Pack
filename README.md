@@ -7,182 +7,26 @@
 
 </br>
 
-# 🚀 My VS Code Extension Collection
-
-This is my personal collection of Visual Studio Code extensions that significantly enhance the development experience. They are organized by category for easy installation and use.
-
-## 🎨 Lynx Suite – Custom Extensions
-
-A complete suite of extensions developed to optimize your workflow:
-
-<table align="center" width="100%" style="table-layout: fixed;">
-  <tr align="center">
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.2/1744898058774/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx Theme" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/bastndev/Lynx-Theme"><b>🎨 Lynx Theme</b></a>
-      <br/>
-      <small>Elegant and modern dark theme</small>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx JS Snippets" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/bastndev/Lynx-js-Snippets"><b>⚡ JS Snippets</b></a>
-      <br/>
-      <small>Optimized snippets for JavaScript</small>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="Bracket Lynx" width="60"/>
-      </a>
-      <br/>
-      <a href="https://github.com/bastndev/Bracket-Lynx"><b>🔗 Bracket Lynx</b></a>
-      <br/>
-      <small>Intelligent bracket colorization</small>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.f1" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/f1/0.2.1/1752544035624/Microsoft.VisualStudio.Services.Icons.Default" alt="F1 Quick Switch" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/bastndev/f1"><b>🚀 Quick Switch</b></a>
-      <br/>
-      <small>Quick file switching</small>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" alt="Lynx Keymap" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/bastndev/Lynx-Keymap"><b>⌨️ Lynx Keymap</b></a>
-      <br/>
-      <small>Custom key mapping</small>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap-75" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-keymap-75/1.3.5/1754931477790/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx Keymap 75%" width="45"/>
-      </a>
-      <br/>
-      <a href="https://github.com/bastndev/Lynx-Keymap-75"><b>⌨️ Keymap 75%</b></a>
-      <br/>
-      <small>Optimized for 75% keyboards</small>
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Productivity Extensions
-
-Essential tools for more efficient development:
-
-<table align="center" width="100%" style="table-layout: fixed;">
-  <tr align="center">
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens" target="_blank" rel="noreferrer">
-        <img src="https://usernamehw.gallerycdn.vsassets.io/extensions/usernamehw/errorlens/3.26.0/1745913515439/Microsoft.VisualStudio.Services.Icons.Default" alt="Error Lens" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/usernamehw/vscode-error-lens"><b>🔍 Error Lens</b></a>
-      <br/>
-      <small>Inline error visualization</small>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank" rel="noreferrer">
-        <img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/11.0.0/1723648421534/Microsoft.VisualStudio.Services.Icons.Default" alt="Prettier" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/prettier/prettier"><b>✨ Prettier</b></a>
-      <br/>
-      <small>Automatic code formatter</small>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker" target="_blank" rel="noreferrer">
-        <img src="https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/4.2.3/1753028947698/Microsoft.VisualStudio.Services.Icons.Default" alt="Code Spell Checker" width="60"/>
-      </a>
-      <br/>
-      <a href="https://github.com/streetsidesoftware/vscode-spell-checker"><b>📝 Spell Checker</b></a>
-      <br/>
-      <small>Spell checker for code</small>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight" target="_blank" rel="noreferrer">
-        <img src="https://wayou.gallerycdn.vsassets.io/extensions/wayou/vscode-todo-highlight/1.0.5/1635478170130/Microsoft.VisualStudio.Services.Icons.Default" alt="TODO Highlight" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/wayou/vscode-todo-highlight"><b>📌 TODO Highlight</b></a>
-      <br/>
-      <small>Highlights TODO/FIXME comments</small>
-    </td>
-  </tr>
-</table>
-
-## 🔧 Development Tools
-
-Extensions to enhance the development experience:
-
-<table align="center" width="100%" style="table-layout: fixed;">
-  <tr align="center">
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview" target="_blank" rel="noreferrer">
-        <img src="https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.32.2/1732997211540/Microsoft.VisualStudio.Services.Icons.Default" alt="Gutter Preview" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/kisstkondoros/gutter-preview"><b>👁️ Gutter Preview</b></a>
-      <br/>
-      <small>Image preview in the gutter</small>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens" target="_blank" rel="noreferrer">
-        <img src="https://pflannery.gallerycdn.vsassets.io/extensions/pflannery/vscode-versionlens/1.22.2/1747670637569/Microsoft.VisualStudio.Services.Icons.Default" alt="Version Lens" width="70"/>
-      </a>
-      <br/>
-      <a href="https://gitlab.com/versionlens/vscode-versionlens"><b>🔍 Version Lens</b></a>
-      <br/>
-      <small>Dependency version information</small>
-    </td>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens" target="_blank" rel="noreferrer">
-        <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2025.8.1205/1754989816560/Microsoft.VisualStudio.Services.Icons.Default" alt="GitLens" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/gitkraken/vscode-gitlens"><b>🔀 GitLens</b></a>
-      <br/>
-      <small>Supercharge Git in VS Code</small>
-    </td>
-  </tr>
-</table>
-
-## 🎨 Frameworks and Libraries
-
-Specialized support for specific technologies:
-
-<table align="center" width="100%" style="table-layout: fixed;">
-  <tr align="center">
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss" target="_blank" rel="noreferrer">
-        <img src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.14.26/1754073884108/Microsoft.VisualStudio.Services.Icons.Default" alt="Tailwind CSS IntelliSense" width="70"/>
-      </a>
-      <br/>
-      <a href="https://github.com/tailwindlabs/tailwindcss-intellisense"><b>🎨 Tailwind CSS IntelliSense</b></a>
-      <br/>
-      <small>IntelliSense for Tailwind CSS</small>
-    </td>
-  </tr>
-</table>
-
----
+| Icon                                                                                                                                                                                                                                                                         | Name                                                                                | Description                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Lynx Theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.2/1744898058774/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)                                           | [🎨 Lynx Theme](https://github.com/bastndev/Lynx-Theme)                             | A professional extension with six available themes: Dark, Light, Night, Ghibli, Coffee, and Kiro—with integrated icons. Each theme is optimized to offer a more pleasant visual experience.        |
+| [![Bracket Lynx](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx)                                     | [🔗 Bracket Lynx](https://github.com/bastndev/Bracket-Lynx)                         | Enhances the development experience by displaying a label next to each closing parenthesis, indicating the name of the corresponding block or function, along with the start and end line numbers. |
+| [![Lynx Keymap](https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap)                                                                                    | [⌨️ Lynx Keymap Pro](https://github.com/bastndev/Lynx-Keymap)                       | Standardizes keyboard shortcuts across all code editors, allowing you to use key combinations to access any functionality. It improves workflow and development experience.                        |
+| [![Lynx JS Snippets](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets)                         | [⚡ LynxJS Snippets (.tsx)](https://github.com/bastndev/Lynx-js-Snippets)           | A collection of optimized code snippets designed to accelerate web and mobile development in LynxJS projects. It automates the writing of common code structures.                                  |
+| [![F1 Quick Switch](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/f1/0.2.1/1752544035624/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.f1)                                                      | [🚀 F1-Quick Switch](https://github.com/bastndev/f1)                                | Allows you to control editor functions and manage extensions directly from the keyboard, streamlining your workflow with configurable shortcuts.                                                   |
+| [![Prettier](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/11.0.0/1723648421534/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)                                        | [✨ Prettier](https://github.com/prettier/prettier)                                 | Code formatter that enforces a consistent style by parsing your code and reprinting it with its own rules. Supports JavaScript, TypeScript, CSS, HTML and more.                                    |
+| <img src="https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/4.2.3/1753028947698/Microsoft.VisualStudio.Services.Icons.Default" alt="Code Spell Checker" width="120"/>                                                       | [📝 Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker) | A basic spell checker that works well with code and documents. Helps catch common spelling errors in comments, strings, and text.                                                                  |
+| [![TODO Highlight](https://wayou.gallerycdn.vsassets.io/extensions/wayou/vscode-todo-highlight/1.0.5/1635478170130/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)                          | [📌 TODO Highlight](https://github.com/wayou/vscode-todo-highlight)                 | Highlight TODO, FIXME and other annotations within your code. Helps you keep track of important comments and reminders in your codebase.                                                           |
+| [![Tailwind CSS IntelliSense](https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.14.26/1754073884108/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)                | [🎨 Tailwind CSS](https://github.com/tailwindlabs/tailwindcss-intellisense)         | Intelligent Tailwind CSS tooling for VS Code. Provides autocomplete, syntax highlighting, and linting for Tailwind CSS classes.                                                                    |
+| <img src="https://usernamehw.gallerycdn.vsassets.io/extensions/usernamehw/errorlens/3.26.0/1745913515439/Microsoft.VisualStudio.Services.Icons.Default" alt="Error Lens" width="120"/>                                                                                       | [🔍 Error Lens](https://github.com/usernamehw/vscode-error-lens)                    | Improve code quality by making errors and warnings more visible. Highlights the entire line wherever a diagnostic is generated and prints the message inline.                                      |
+| [![Gutter Preview](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.32.2/1732997211540/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) | [👁️ Gutter Preview](https://github.com/kisstkondoros/gutter-preview)                | Shows image preview in the gutter and on hover. Supports various image formats and makes it easy to visualize images referenced in your code.                                                      |
+| [![Version Lens](https://pflannery.gallerycdn.vsassets.io/extensions/pflannery/vscode-versionlens/1.22.2/1747670637569/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)                     | [🔍 Version Lens](https://gitlab.com/versionlens/vscode-versionlens)                | Shows version information when opening a package or project. Displays the latest version for each package and allows easy updating of dependencies.                                                |
+| [![GitLens](https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2025.8.1205/1754989816560/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                                                 | [🔀 GitLens](https://github.com/gitkraken/vscode-gitlens)                           | Supercharge Git inside VS Code. Visualize code authorship, explore repositories, gain valuable insights via rich visualizations and powerful comparison commands.                                  |
 
 ### [+] Optional: Fonts & (75%) keyboard
 
 - **[Fonts](https://github.com/bastndev/Lynx-Theme/releases/tag/v1.2.5)**
 - **[Lynx Keymap (75%)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap-75)**
-
-**Did you find this collection useful?** ⭐ Give the repository a star!
 
 > **Note:** Keep your extensions updated regularly to get the latest features and security fixes.
 
@@ -204,7 +48,7 @@ ext install bastndev.lynxjs-pack
 
 ## Contributing
 
-Suggestions and contributions are welcome! Please refer to the project repository for guidelines: [[>\_ ] code](https://github.com/bastndev/LynxJs-Packge).
+If you want to contribute, check the guidelines: [[>_ᅠ]](https://github.com/bastndev/Lynxjs-Pack/blob/main/CONTRIBUTING.md).
 
 | [![bastndev](https://github.com/bastndev.png?size=100)](https://bastndev.com) |
 | :---------------------------------------------------------------------------: |
@@ -216,13 +60,4 @@ Suggestions and contributions are welcome! Please refer to the project repositor
 - 🔴 [Youtube](https://www.youtube.com/@bastndev?sub_confirmation=1) - Code, Software and development insights.
 - 💼 [Linkedin](https://www.linkedin.com/in/bastndev) - Professional networking and career updates.
 
-</br>
-
-| Icon                                                                                                                                                                                                                                                 | Name                                                                 | Description                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Lynx Theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.2/1744898058774/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)                   | [Lynx Theme](https://github.com/bastndev/Lynx-Theme)                 | A sleek, customizable VS Code theme with built‑in support for Cursor‑AI, Windsurf & Trae‑AI integrations.                                       |
-| [![Lynx-js Snippets](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets) | [Lynxjs Snippets .tsx](https://github.com/bastndev/Lynx-js-Snippets) | A powerful collection of Lynx.js snippets (TypeScript & React) to boost your development workflow.                                              |
-| [![Lynx Keymap](https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap)                                                            | [Lynx Keymap](https://github.com/bastndev/Lynx-Keymap)               | An all‑in‑one toolkit for LynxJS mobile/web development—bundles keymap, snippets & AI tools like Cursor AI, Windsurf, Trae AI, Firebase Studio. |
-
-**Enjoy coding and building amazing projects! [suggestion issue](https://github.com/bastndev/LynxJs-Packge/issues) 🚀 In LynxJS.**
-[MORE](https://marketplace.visualstudio.com/publishers/bastndev)
+**Enjoy 🎉 Your LynxJS pack is now active. If you find any bugs or have feedback, you can [open an issue](https://github.com/bastndev/LynxJs-Packge/issues).**

@@ -49,17 +49,17 @@
   },
   "extensionPack": [
     "bastndev.lynx-theme",
-    "bastndev.lynx-js-snippets",
-    "usernamehw.errorlens",
     "bastndev.bracket-lynx",
+    "bastndev.lynx-keymap",
+    "bastndev.lynx-js-snippets",
+    "bastndev.f1",
     "esbenp.prettier-vscode",
-    "eamodio.gitlens",
     "streetsidesoftware.code-spell-checker",
     "wayou.vscode-todo-highlight",
     "bradlc.vscode-tailwindcss",
+    "usernamehw.errorlens",
     "kisstkondoros.vscode-gutter-preview",
     "pflannery.vscode-versionlens",
-    "bastndev.lynx-keymap",
-    "bastndev.f1"
+    "eamodio.gitlens"
   ]
 }
