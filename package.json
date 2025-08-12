@@ -1,6 +1,6 @@
 {
   "name": "lynxjs-pack",
-  "displayName": "LynxJS Pack",
+  "displayName": "Lynxjs Extension Pack",
   "description": "Available now: VSCode • Cursor • Windsurf • Trae.ai • Kiro & (Firebase Studio)...",
   "version": "0.4.0",
   "publisher": "bastndev",
@@ -10,33 +10,34 @@
   },
   "categories": ["Extension Packs"],
   "keywords": [
-    "extension pack",
+    "Lynxjs",
     "developer tools",
-    "productivity",
-    "theme",
+    "lynx-js-snippets",
+    "errorlens",
     "icons",
-    "keymap",
-    "snippets",
-    "git",
-    "gitlens",
+    "lynx-theme",
+    "highlight",
+    "tailwindcss",
     "prettier",
     "formatter",
-    "linter",
-    "debugging",
-    "code quality"
+    "lynx-keymap",
+    "f1-Quick Switch",
+    "image preview",
+    "bracket Lynx",
+    "gitlens"
   ],
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#0a0a0a",
     "theme": "dark"
   },
-  "homepage": "https://github.com/bastndev/LynxJs-Packge#readme",
+  "homepage": "https://github.com/bastndev/Lynxjs-Pack#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bastndev/LynxJs-Packge"
+    "url": "https://github.com/bastndev/Lynxjs-Pack"
   },
   "bugs": {
-    "url": "https://github.com/bastndev/LynxJs-Packge/issues"
+    "url": "https://github.com/bastndev/Lynxjs-Pack/issues"
   },
   "author": {
     "name": "Gohit Bastian",
