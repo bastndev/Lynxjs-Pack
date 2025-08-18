@@ -24,9 +24,11 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 
 ## Changelog
 
-Following VS Code best practices, Lynx Extension Pack uses [semantic versioning](https://semver.org/) for all releases.
+</br>
 
----
+## [0.5.1] - 2025-08-12
+
+
 ## [0.5.1] - 2025-08-12
 
 ### Changed
