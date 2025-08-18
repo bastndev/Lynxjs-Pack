@@ -30,6 +30,14 @@ Following VS Code best practices, Lynx Extension Pack uses [semantic versioning]
 ## [0.5.1] - 2025-08-12
 
 ### Changed
+- Removed GitLens from the extension pack.
+- Improved the extension table in `README.md` for clarity and consistency.
+- Reordered fields in `package.json` for better structure and readability.
+
+---
+## [0.5.1] - 2025-08-12
+
+### Changed
 - Improved the extension table in `README.md` for clarity and consistency.
 - Reordered fields in `package.json` for better structure and readability.
 
