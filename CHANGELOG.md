@@ -24,7 +24,24 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 
 ## Changelog
 
-Following VS Code best practices, Lynx Extension Pack uses [semantic versioning](https://semver.org/) for all releases.
+</br>
+
+## [0.5.3] - 2025-08-12
+
+### Changed
+- Updated `README.md` for improved clarity and structure.
+- Enhanced extension descriptions for better understanding.
+- Refined formatting for a more consistent appearance.
+- Added direct links to each extension in the feature list.
+- Improved documentation navigation and usability.
+
+
+## [0.5.1] - 2025-08-12
+
+### Changed
+- Removed GitLens from the extension pack.
+- Improved the extension table in `README.md` for clarity and consistency.
+- Reordered fields in `package.json` for better structure and readability.
 
 ---
 ## [0.5.1] - 2025-08-12
