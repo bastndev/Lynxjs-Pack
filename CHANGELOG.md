@@ -20,11 +20,20 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 
 > Discover more extensions at [bastndev.com/extensions](https://bastndev.com/extensions)
 
----
 
 ## Changelog
 
 </br>
+
+<!-- --- -->
+
+## [0.5.5] - 2025-09-03
+
+### Changed
+- Updated the logo for Bracket Lynx extension in `README.md` to the new version for improved branding and consistency.
+- Minor refinements to extension descriptions for clarity.
+
+---
 
 ## [0.5.3] - 2025-08-12
 
@@ -35,6 +44,7 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 - Added direct links to each extension in the feature list.
 - Improved documentation navigation and usability.
 
+---
 
 ## [0.5.1] - 2025-08-12
 
@@ -44,11 +54,14 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 - Reordered fields in `package.json` for better structure and readability.
 
 ---
+
 ## [0.5.1] - 2025-08-12
 
 ### Changed
 - Improved the extension table in `README.md` for clarity and consistency.
 - Reordered fields in `package.json` for better structure and readability.
+
+---
 
 ## [0.4.0] - 2025-08-12
 
