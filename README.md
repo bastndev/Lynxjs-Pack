@@ -64,6 +64,6 @@ ext install bastndev.lynxjs-pack
 <div align="center">
   <p><strong>Made with 🧡 by <a href="https://bastndev.com/extensions">@bastndev</a></strong></p>
   
-  **Enjoy 🎉 Your (Lynx Pack) are now installed!**  
+  **Enjoy 🎉 Your (Lynxjs Pack) are now installed!**  
   *If you find any bugs or have feedback, you can [open an issue](https://github.com/bastndev/Lynxjs-Pack/issues)*
 </div>
