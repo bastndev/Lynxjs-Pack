@@ -59,6 +59,7 @@
     "bastndev.lynx-js-snippets",
     "bastndev.lynx-keymap",
     "bastndev.bracket-lynx",
-    "bastndev.lynx-theme"
+    "bastndev.lynx-theme",
+    "bastndev.compare-code"
   ]
 }
