@@ -66,7 +66,7 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 
 ---
 
-## [0.5.1] - 2025-08-12
+## [0.5.0] - 2025-08-12
 
 ### Changed
 - Improved the extension table in `README.md` for clarity and consistency.
