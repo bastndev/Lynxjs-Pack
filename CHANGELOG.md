@@ -23,9 +23,20 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 
 ## Changelog
 
-</br>
+<br>
 
 <!-- --- -->
+## [0.6.0] - 2025-10-04
+
+### Added
+- Integrated [Compare Code](https://marketplace.visualstudio.com/items?itemName=bastndev.compare-code) for efficient side-by-side file comparison and difference visualization.
+
+### Changed
+- Enhanced `README.md` with improved extension descriptions and clearer feature highlights.
+- Reorganized extension list for better logical grouping and discoverability.
+- Updated documentation structure for enhanced readability and navigation.
+
+---
 
 ## [0.5.5] - 2025-09-03
 
@@ -55,7 +66,7 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 
 ---
 
-## [0.5.1] - 2025-08-12
+## [0.5.0] - 2025-08-12
 
 ### Changed
 - Improved the extension table in `README.md` for clarity and consistency.
