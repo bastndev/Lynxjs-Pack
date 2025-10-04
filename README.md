@@ -5,7 +5,7 @@
   <a href="https://github.com/bastndev/Lynxjs-Pack"><img src="https://raw.githubusercontent.com/bastndev/Lynxjs-Pack/refs/heads/main/assets/images/star.png" width="26.6px" alt="Github Star ⭐️"></a>
 </p>
 
-</br>
+<br>
 
 | Icon                                                                                                                                                                                                                                                                         | Code/Name                                                                                                                                                                                              | Description                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@
 
 > **Note:** Keep your extensions updated regularly to get the latest features and security fixes.
 
-</br>
+<br>
 
 ## Installation
 
@@ -58,6 +58,8 @@ ext install bastndev.lynxjs-pack
 - [🐦 X](https://twitter.com/bastndev) - For questions and discussions.
 - 🔴 [Youtube](https://www.youtube.com/@bastndev?sub_confirmation=1) - Code, Software and development insights.
 - 💼 [Linkedin](https://www.linkedin.com/in/bastndev) - Professional networking and career updates.
+
+<br>
 
 <div align="center">
   <p><strong>Made with 🧡 by <a href="https://bastndev.com/extensions">@bastndev</a></strong></p>
