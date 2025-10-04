@@ -36,9 +36,9 @@
 
 Launch _Quick Open_
 
-- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> Linux `Ctrl+P`
-- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> macOS `⌘P`
-- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> Windows `Ctrl+P`
+- <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/OS/linux.png" width="16" height="16"/> Linux `Ctrl+P`
+- <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/OS/macOs.ico" width="16" height="16"/> macOS `⌘P`
+- <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/OS/windows.ico" width="16" height="16"/> Windows `Ctrl+P`
 
 Paste the following command and press `Enter`:
 
@@ -48,9 +48,10 @@ ext install bastndev.lynxjs-pack
 
 ## Contributing
 
-| [![bastndev](https://github.com/bastndev.png?size=100)](https://bastndev.com) |
-| :---------------------------------------------------------------------------: |
-|               **[Gohit Bastian](https://github.com/bastndev)**                |
+| [![bastndev](https://github.com/bastndev.png?size=100)](https://www.bastndev.com) |
+| :-------------------------------------------------------------------------------: |
+|                 **[Gohit Bastian](https://github.com/bastndev)**                  |
+|                              _Creator & Maintainer_                               |
 
 ## About Me
 
@@ -58,4 +59,9 @@ ext install bastndev.lynxjs-pack
 - 🔴 [Youtube](https://www.youtube.com/@bastndev?sub_confirmation=1) - Code, Software and development insights.
 - 💼 [Linkedin](https://www.linkedin.com/in/bastndev) - Professional networking and career updates.
 
-**Enjoy 🎉 Your LynxJS pack is now active. If you find any bugs or have feedback, you can [open an issue](https://github.com/bastndev/LynxJs-Packge/issues).**
+<div align="center">
+  <p><strong>Made with 🧡 by <a href="https://bastndev.com/extensions">@bastndev</a></strong></p>
+  
+  **Enjoy 🎉 Your (Lynx Pack) are now installed!**  
+  *If you find any bugs or have feedback, you can [open an issue](https://github.com/bastndev/Lynxjs-Pack/issues)*
+</div>
