@@ -48,10 +48,10 @@ ext install bastndev.lynxjs-pack
 
 ## Contributing
 
-| [![bastndev](https://github.com/bastndev.png?size=100)](https://www.bastndev.com) |
-| :-------------------------------------------------------------------------------: |
-|                 **[Gohit Bastian](https://github.com/bastndev)**                  |
-|                              _Creator & Maintainer_                               |
+| ![bastndev](https://github.com/bastndev.png?size=100) |
+| :---------------------------------------------------: |
+|       **[Gohit Bastian](https://bastndev.com)**       |
+|                _Creator & Maintainer_                 |
 
 ## About Me
 
@@ -62,7 +62,7 @@ ext install bastndev.lynxjs-pack
 <br>
 
 <div align="center">
-  <p><strong>Made with 🧡 by <a href="https://bastndev.com/extensions">@bastndev</a></strong></p>
+  <p><strong>Made with 🧡 by <a href="https://github.com/bastndev">@bastndev</a></strong></p>
   
   **Enjoy 🎉 Your (Lynxjs Pack) are now installed!**  
   *If you find any bugs or have feedback, you can [open an issue](https://github.com/bastndev/Lynxjs-Pack/issues)*
