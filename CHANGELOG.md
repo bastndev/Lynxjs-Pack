@@ -18,7 +18,7 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-> Discover more extensions at [bastndev.com/extensions](https://bastndev.com/extensions)
+  Discover more extensions [here](https://gohit.xyz/)
 
 
 ## Changelog
