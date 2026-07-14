@@ -26,7 +26,7 @@
     "bracket Lynx",
     "gitlens"
   ],
-  "icon": "assets/icon.png",
+  "icon": "icon.png",
   "galleryBanner": {
     "color": "#0a0a0a",
     "theme": "dark"
@@ -40,26 +40,18 @@
     "url": "https://github.com/bastndev/Lynxjs-Pack/issues"
   },
   "author": {
-    "name": "Gohit Bastian", 
-    "email": "hello@gohit.xyz",
-    "url": "https://www.gohit.xyz/me"
+    "name": "Gohit X (bastndev)", 
+    "email": "basrdev@gohit.xyz",
+    "url": "https://www.gohit.xyz/"
   },
     "sponsor": {
     "url": "https://github.com/sponsors/bastndev"
   },
   "extensionPack": [
-    "esbenp.prettier-vscode",
-    "usernamehw.errorlens",
-    "streetsidesoftware.code-spell-checker",
-    "kisstkondoros.vscode-gutter-preview",
-    "wayou.vscode-todo-highlight",
-    "pflannery.vscode-versionlens",
-    "bradlc.vscode-tailwindcss",
+    "bastndev.atm",
     "bastndev.f1",
     "bastndev.lynx-js-snippets",
     "bastndev.lynx-keymap",
-    "bastndev.bracket-lynx",
-    "bastndev.lynx-theme",
-    "bastndev.compare-code"
+    "bastndev.lynx-theme"
   ]
 }
