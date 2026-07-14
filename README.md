@@ -72,7 +72,7 @@ ext install bastndev.lynxjs-pack
 <div align="center">
   
   **Enjoy 🎉 Your (Lynxjs Pack) are now installed!**  
-  *If you find any bugs or have feedback, feel free to [open an issue](https://github.com/bastndev/F1/Lynxjs-Pack/new).*
+  *If you find any bugs or have feedback, feel free to [open an issue](https://github.com/bastndev/Lynxjs-Pack/issues/new).*
 
 <sub>Made in 🇵🇪 by <a href="https://gohit.xyz">Gohit X</a> · Licensed under <a href="https://github.com/bastndev/Lynxjs-Pack/blob/main/LICENSE">`MIT`</a></sub>
 
