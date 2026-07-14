@@ -2,9 +2,9 @@
 
 <p>
   <img src="https://vsmarketplacebadges.dev/version-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=VERSION" alt="Version">&nbsp;
-  <img src="https://vsmarketplacebadges.dev/rating-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Rating" alt="Rating">&nbsp;
   <img src="https://vsmarketplacebadges.dev/downloads-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Downloads" alt="Downloads">&nbsp;
-  <a href="https://github.com/bastndev/Lynxjs-Pack"><img src="https://raw.githubusercontent.com/bastndev/Lynxjs-Pack/refs/heads/main/assets/images/star.png" width="26.6px" alt="Github Star ⭐️"></a>
+  <img src="https://vsmarketplacebadges.dev/rating-short/bastndev.lynxjs-pack.jpg?style=for-the-badge&colorA=E91E63&colorB=EEEEEE&color=33BFFF&label=Rating" alt="Rating">&nbsp;
+  <a href="https://github.com/bastndev/Lynxjs-Pack"><img src="https://raw.githubusercontent.com/bastndev/Lynxjs-Pack/refs/heads/main/public/github/images/star.png" width="26.6px" alt="Github Star ⭐️"></a>
 </p>
 
 <p>
@@ -72,7 +72,7 @@ ext install bastndev.lynxjs-pack
 <div align="center">
   
   **Enjoy 🎉 Your (Lynxjs Pack) are now installed!**  
-  *If you find any bugs or have feedback, feel free to [open an issue](https://github.com/bastndev/F1/Lynxjs-Pack/new).*
+  *If you find any bugs or have feedback, feel free to [open an issue](https://github.com/bastndev/Lynxjs-Pack/issues/new).*
 
 <sub>Made in 🇵🇪 by <a href="https://gohit.xyz">Gohit X</a> · Licensed under <a href="https://github.com/bastndev/Lynxjs-Pack/blob/main/LICENSE">`MIT`</a></sub>
 
