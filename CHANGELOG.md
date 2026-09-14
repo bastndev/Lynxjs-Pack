@@ -26,6 +26,9 @@ An all-in-one toolkit for LynxJS development: includes keyboard shortcuts, error
 <br>
 
 <!-- --- -->
+---
+## [0.7.0] - 2026-08-14
+ **Added**: new new new README.md and new extension
 
 ---
 ## [0.6.0] - 2026-10-04
